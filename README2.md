@@ -1,4 +1,4 @@
-# Simple Calculator Yudi Mao
+# Simple Calculator
 
 A Python program that takes four numbers and either adds or multiplies them.
 
